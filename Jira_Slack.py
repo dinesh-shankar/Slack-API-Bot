@@ -66,7 +66,7 @@ formatted_attachments = "\n".join([attachment["text"] for attachment in slack_me
 slack_message["text"] = formatted_attachments
 
 # Add the message at the end of the Slack message
-slack_message["text"] += "\n\n:alert: - Please find the below reproduced tickets from FDR Team\n======================================================================\n:robot_face:BOTsupportcontact: DineshShankar_P@comcast.com"
+slack_message["text"] += "\n\n:alert: - Please find the below reproduced tickets from FDR Team\n======================================================================\n:robot_face:BOTsupportcontact: DineshShankar666@gmail.com"
 
 # Define your Slack bot token
 SLACK_BOT_TOKEN = ''
